@@ -63,7 +63,7 @@
     <h1>Funkcije</h1>
     <?php
       suma($brojevi);
-      a($boja,  $array);
+      a($boja,  $brojevi);
        najmanji($brojevi);
       najveci($brojevi);    
     ?>
